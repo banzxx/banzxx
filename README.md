@@ -1,16 +1,37 @@
-## Hi there 👋
+# 🎮 E aí, eu sou [seu nome ou nick]
 
-<!--
-**banzxx/banzxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🕹️ Gamer casual (ou tryhard 👀)  
+🎯 Foco atual: [seu jogo favorito]  
+🔥 Rank: [Bronze / Gold / Lendário kkk]  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👾 Sobre mim
+
+- 🎮 Jogo: FPS / RPG / competitivo
+- 🧠 Skill principal: mira duvidosa 😅
+- ⚡ Especialidade: clutch impossível
+- 💀 Inimigo natural: lag
+
+---
+
+## 🏆 Conquistas
+
+- 🥇 Virei a noite jogando
+- 🎯 Já carreguei o time (1 vez só)
+- 🧠 Sobrevivi sem rage quit
+
+---
+
+## 🎯 Jogos favoritos
+
+- 🎮 Valorant  
+- 🎮 GTA V  
+- 🎮 Minecraft  
+- 🎮 FIFA  
+
+---
+
+## 📡 Contato
+
+- Discord: [seu nick]
